@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>ProductMS</name>
-	<description>Product  Microservice</description>
+	<description>Product Microservice</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
